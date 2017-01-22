@@ -10,6 +10,7 @@ namespace VSTest
     {
         static void Main(string[] args)
         {
+            // A change on branch issue/1234
         }
     }
 }
